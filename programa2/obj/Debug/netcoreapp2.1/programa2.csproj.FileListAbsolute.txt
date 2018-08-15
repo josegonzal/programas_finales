@@ -1,0 +1,11 @@
+/home/ecalderon/Development/csharp/programa2/bin/Debug/netcoreapp2.1/programa2.deps.json
+/home/ecalderon/Development/csharp/programa2/bin/Debug/netcoreapp2.1/programa2.runtimeconfig.json
+/home/ecalderon/Development/csharp/programa2/bin/Debug/netcoreapp2.1/programa2.runtimeconfig.dev.json
+/home/ecalderon/Development/csharp/programa2/bin/Debug/netcoreapp2.1/programa2.dll
+/home/ecalderon/Development/csharp/programa2/bin/Debug/netcoreapp2.1/programa2.pdb
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.csprojAssemblyReference.cache
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.csproj.CoreCompileInputs.cache
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.AssemblyInfoInputs.cache
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.AssemblyInfo.cs
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.dll
+/home/ecalderon/Development/csharp/programa2/obj/Debug/netcoreapp2.1/programa2.pdb

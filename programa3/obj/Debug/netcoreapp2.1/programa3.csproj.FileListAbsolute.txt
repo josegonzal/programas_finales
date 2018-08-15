@@ -1,0 +1,11 @@
+/home/ecalderon/Development/csharp/misprogramas/programa3/bin/Debug/netcoreapp2.1/programa3.deps.json
+/home/ecalderon/Development/csharp/misprogramas/programa3/bin/Debug/netcoreapp2.1/programa3.runtimeconfig.json
+/home/ecalderon/Development/csharp/misprogramas/programa3/bin/Debug/netcoreapp2.1/programa3.runtimeconfig.dev.json
+/home/ecalderon/Development/csharp/misprogramas/programa3/bin/Debug/netcoreapp2.1/programa3.dll
+/home/ecalderon/Development/csharp/misprogramas/programa3/bin/Debug/netcoreapp2.1/programa3.pdb
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.csprojAssemblyReference.cache
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.csproj.CoreCompileInputs.cache
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.AssemblyInfoInputs.cache
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.AssemblyInfo.cs
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.dll
+/home/ecalderon/Development/csharp/misprogramas/programa3/obj/Debug/netcoreapp2.1/programa3.pdb
