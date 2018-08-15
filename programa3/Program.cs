@@ -8,9 +8,10 @@ namespace programa3
         {
             // Este programa imprime la tabla de multiplicacion entre 1 y 12
              
-            Console.WriteLine("Nombre: ");
-            Console.WriteLine("Matricula: ");
+            Console.WriteLine("Nombre: Jose Delio Gonzales Aracena");
+            Console.WriteLine("Matricula: 17-EIIN-1-108");
             Console.WriteLine();
+
         
             Console.Write("Por favor elija un numero entre 1 y 12: ");
             int numero = int.Parse(Console.ReadLine());

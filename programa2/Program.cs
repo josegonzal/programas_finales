@@ -8,12 +8,12 @@ namespace misprogramas
         {
             // Este programa muestra todos los numeros impares entre 0 y un numero elegido por el usuario
             
-            // Nombre del estudiante
+            // Nombre Jose Delio Gonzales Aracena
             
-            Console.WriteLine("Nombre: ");
-            Console.WriteLine("Matricula: ");
+            Console.WriteLine("Nombre: Jose Delio Gonzales Aracena");
+            Console.WriteLine("Matricula: 17-EIIN-1-108");
             Console.WriteLine();
-
+                                      
             int numero;
 
             int intentos = 1;

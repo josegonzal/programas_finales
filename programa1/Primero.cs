@@ -8,8 +8,8 @@ namespace misprogramas
         {
             // Nombre del estudiante
             
-            Console.WriteLine("Nombre: ");
-            Console.WriteLine("Matricula: ");
+            Console.WriteLine("Nombre: Jose Delio Gonzales Aracena");
+            Console.WriteLine("Matricula: 17-EIIN-1-108");
             Console.WriteLine();
 
             int nota;
